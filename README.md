@@ -70,9 +70,9 @@ Library Menu:
 4. Return a Book
 5. Exit
 Enter your choice (1-5): 1
-Enter the book title: Python for Beginners
-Enter the author: John Doe
-Book "Python for Beginners" by John Doe added to the library.
+Enter the book title: Kifo Kisimani
+Enter the author: Wallah Bin Wallah
+Book "Kifo Kisimani" by Wallah Bin Wallah added to the library.
 ```
 
 ## 📂 Project Structure
@@ -119,13 +119,3 @@ Feel free to modify and enhance the system for your own needs!
 
 ---
 
-### ✨ Connect
-
-For any queries, feel free to reach out via:
-
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: youremail@example.com
-
----
-
-This README file provides a detailed overview of the project for anyone who lands on your GitHub page. You can customize the GitHub URL, license, and contact information as needed. Let me know if you need further modifications!
