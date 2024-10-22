@@ -75,7 +75,7 @@ Enter the author: John Doe
 Book "Python for Beginners" by John Doe added to the library.
 ```
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```plaintext
 library-management-system/
@@ -84,18 +84,18 @@ library-management-system/
 ├── README.md                       # Project documentation
 ```
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Python 3.x**: Core language for the Library Management System.
 
-# 📈 Future Enhancements
+## 📈 Future Enhancements
 
 - **Multiple Copies**: Track multiple copies of the same book.
 - **User Authentication**: Add user registration and login features.
 - **Persistent Storage**: Use a database (e.g., SQLite) to store books and users permanently.
 - **Graphical Interface**: Create a GUI for a better user experience using Tkinter or PyQt.
 
-# 🤝 Contribution
+## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/yourusername/library-management-system/issues).
 
@@ -105,13 +105,13 @@ Contributions, issues, and feature requests are welcome! Feel free to check out 
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-# 🌟 Acknowledgements
+## 🌟 Acknowledgements
 
 This project was developed as part of a Python learning initiative and demonstrates fundamental concepts of data management and system development.
 
@@ -119,6 +119,13 @@ Feel free to modify and enhance the system for your own needs!
 
 ---
 
+### ✨ Connect
 
+For any queries, feel free to reach out via:
+
+- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: youremail@example.com
+
+---
 
 This README file provides a detailed overview of the project for anyone who lands on your GitHub page. You can customize the GitHub URL, license, and contact information as needed. Let me know if you need further modifications!
